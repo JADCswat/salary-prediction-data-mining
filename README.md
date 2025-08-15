@@ -41,7 +41,6 @@ Clustering revealed groups with similar socioeconomic characteristics.
 
 📑 Technical Paper
 The repository includes a detailed technical document describing the methodology, theoretical foundations, and results analysis.
-📄 View Paper
 
 👥 Authors
 * Juan Ángel Ardila Pava
